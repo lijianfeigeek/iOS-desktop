@@ -1,7 +1,7 @@
 # iOS-desktop
 ![](http://7xraw1.com1.z0.glb.clouddn.com/SpeedyDesktop.gif)
 
-之前的一片博客，忘记发demo，补上。
+之前的一篇博客，忘记发demo，补上。
 
 原文地址：http://lijianfei.sinaapp.com/?p=711
 
