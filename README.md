@@ -3,7 +3,7 @@
 
 之前的一篇博客，忘记发demo，补上。
 
-原文地址：http://lijianfei.sinaapp.com/?p=711
+原文地址：http://www.lijianfei.cn/2015/08/27/iOS-desktop/
 
 cocoachina：http://www.cocoachina.com/ios/20150827/13243.html
 
